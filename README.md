@@ -6,8 +6,11 @@
 
 <hr>
 
-__Practice MySQL online here: https://sqlplayground.app/__
+__Practice MySQL online here: 
 
+1. https://sqlplayground.app/__
+2. https://www.db-fiddle.com/
+   
 __Some resources to learn MySQL:__
 
 1. W3schools MySQL => [Tutorial](https://www.w3schools.com/mysql/default.asp)
